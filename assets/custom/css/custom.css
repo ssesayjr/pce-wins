@@ -832,7 +832,7 @@ body{
 .fables-single-slider #sync1 .owl-nav [class*=owl-] {
     font-size: 13px;
     margin: 0;
-    background-color: rgba(229,77,66,.6);
+    background-color: rgba(122, 120, 120, 0.6);
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -2769,7 +2769,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .form-control:focus { 
     background-color: transparent;
-    border-color: rgba(229, 77, 66, 1); 
+    border-color: rgb(80, 79, 79); 
     box-shadow: none;
 }
 .owl-carousel .owl-item img {
@@ -2834,7 +2834,7 @@ a:hover , .btn-link:hover{
      background-color: rgba(44,62,79,.9);
 }
 .fables-second-color-transparent {
-     background-color: rgba(229,77,66,.8);
+     background-color: rgba(78, 78, 78, 0.8);
 }
 .fables-main-gradient{
     background: -moz-linear-gradient(top, rgba(44,62,79,0.2) 0%, rgba(44,62,79,0.21) 1%, rgba(44,62,79,0.77) 100%);
